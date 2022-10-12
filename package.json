@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "react": "16.3.1",
-    "react-native": "~0.55.2",
+    "react-native": "~0.70.3",
     "react-native-action-bar": "^2.0.5",
     "react-native-bottom-toolbar": "^4.1.2",
     "react-native-elements": "^1.0.0-beta5",
